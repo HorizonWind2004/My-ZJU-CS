@@ -1,0 +1,24 @@
+{
+    "books": [
+      {
+        "bookID": "1",
+        "category": "科幻",
+        "title": "星际穿越",
+        "press": "科幻出版社",
+        "publishYear": "2014",
+        "author": "Christopher Nolan",
+        "price": "100",
+        "stock": "50"
+      },
+      {
+        "bookID": "2",
+        "category": "历史",
+        "title": "罗马帝国的兴衰",
+        "press": "历史出版社",
+        "publishYear": "2000",
+        "author": "Edward Gibbon",
+        "price": "120",
+        "stock": "70"
+      }
+    ]
+  }
